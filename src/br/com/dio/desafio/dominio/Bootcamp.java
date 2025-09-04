@@ -28,6 +28,7 @@ public class Bootcamp {
         return dataInicial;
     }
 
+
     public LocalDate getDataFinal() {
         return dataFinal;
     }
